@@ -11,7 +11,7 @@ Installation
 
 ```sh
 git clone https://github.com/spy-adi/Chatroom
-cd socketio-chatroom
+cd Chatroom
 ```
 
 #### 2. Install the Dependencies
