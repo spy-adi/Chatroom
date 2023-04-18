@@ -3,7 +3,6 @@ Socket.io Chatroom
 
 A simple chat application built in [Node.js](https://nodejs.org) using [Express](http://expressjs.com/) and [Socket.IO](https://socket.io/). I'm also using [Foundation Zurb](http://foundation.zurb.com/) for the front-end and [Moment.js](http://momentjs.com/) to display the date and time.
 
-View **live demo** here: [https://socketio-chatroom.herokuapp.com](https://socketio-chatroom.herokuapp.com/)
 
 Installation
 ===
@@ -11,7 +10,7 @@ Installation
 #### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/moniba-ali/socketio-chatroom.git
+git clone https://github.com/spy-adi/Chatroom
 cd socketio-chatroom
 ```
 
